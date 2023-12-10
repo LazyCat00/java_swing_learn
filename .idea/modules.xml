@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_swing_learn.iml" filepath="$PROJECT_DIR$/.idea/java_swing_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout_border/layout_border.iml" filepath="$PROJECT_DIR$/layout_border/layout_border.iml" />
+      <module fileurl="file://$PROJECT_DIR$/show_time/show_time.iml" filepath="$PROJECT_DIR$/show_time/show_time.iml" />
+    </modules>
+  </component>
+</project>
